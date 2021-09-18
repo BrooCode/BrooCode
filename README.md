@@ -9,4 +9,4 @@ Aae Aae Coders 👋
 - ⚡ Danger fact: In Future AI robo will look at Us the same way we look at Dinosaurs
 
 
-![White   Red Career Coach LinkedIn Banner (2)](![White   Red Career Coach LinkedIn Banner](https://user-images.githubusercontent.com/66835286/133873894-1c2e867d-900b-4dfb-9b80-e6a90cbeb8bf.png))
+![White   Red Career Coach LinkedIn Banner (2)](!(https://user-images.githubusercontent.com/66835286/133873894-1c2e867d-900b-4dfb-9b80-e6a90cbeb8bf.png))
